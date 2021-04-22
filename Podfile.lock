@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (5.4.2)
+  - IQKeyboardManagerSwift (6.5.6)
+  - MBProgressHUD (1.2.0)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (3.5.3)
+  - SwiftyUserDefaults (5.3.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift (~> 6.5.6)
+  - MBProgressHUD (~> 1.2.0)
+  - Moya (~> 14.0)
+  - ObjectMapper (~> 3.5)
+  - SwiftyUserDefaults (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - Moya
+    - ObjectMapper
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SwiftyUserDefaults: 63f80248cf5bfb3458825d9a78f2eb7e1293a040
+
+PODFILE CHECKSUM: b6e61923a6c437c4c93cbf25f4ec94c36d826871
+
+COCOAPODS: 1.10.0

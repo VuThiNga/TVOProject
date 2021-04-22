@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  TVOProject
+
+  Created by Ngavt on 4/15/21.
+  
+*/
+// Common
+"Accept" = "Đồng ý";
+"Change" = "Thay đổi";
+"Continue" = "Tiếp tục";
+"Delete" = "Xoá";
+"Edit" = "Chỉnh Sửa";
+"Save" = "Lưu";
+"Cancel" = "Huỷ";
+"Done" = "Xong";
+"Close" = "Đóng";
+"Success" = "Thành công";
+"Successful" = "Thành công";
+"Register" = "Đăng ký";
+"Login" = "Đăng nhập";
+"Logout" = "Đăng xuất";
+"Remove" = "Gỡ bỏ";
+"Settings" = "Cài đặt";
+"Change language" = "Đổi ngôn ngữ";
+"Title" = "Tiêu đề";
+"Skip" = "Bỏ qua";
+"SKIP" = "BỎ QUA";
+"Pull to refresh" = "Vuốt để tải lại";
+"UPDATE" = "CẬP NHẬT";
+"Update" = "Cập nhật";
+"Apply" = "Cập nhật";
+"No data" = "Không có dữ liệu";
+"Failure" = "Thất bại";
+"Try again" = "Thử lại";
+"Option" = "Tùy chọn";
+"message.getting.data" = "Đang lấy dữ liệu...";
+
+
+//error message
+"error.msg.could.not.parse" = "Không thể chuyển đổi dữ liệu trả về";
+"error.unexpected" = "Có lỗi không xác định xảy ra";
+"error.msg.notdata" = "Không có dữ liệu trả về";
+
+

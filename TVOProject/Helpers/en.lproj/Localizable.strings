@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TVOProject
+
+  Created by Ngavt on 4/15/21.
+  
+*/
+
+"message.getting.data" = "Getting data...";
+
+"error.msg.could.not.parse" = "Could not parse response data";
+"error.unexpected" = "Unexpected error occurred";
+"error.msg.notdata" = "No data return from server";
